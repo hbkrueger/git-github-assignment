@@ -6,3 +6,5 @@ Git:
 Branching in Git:
 -Allows you to create multiple branches of development of a main file
 -Can work on a separate line of a file without affecting main branchs
+
+Pull request is where I can request that you merge the changes I made in the request with main
