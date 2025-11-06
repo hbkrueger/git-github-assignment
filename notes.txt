@@ -1,0 +1,4 @@
+Git:
+-Serves as a collection for program version histories, allowing you to keep track of multiple versions of files ensuring safe project development
+-Allows modular development of a program
+-Using GitHub, allows you to share file repositories online and collaborate with others
